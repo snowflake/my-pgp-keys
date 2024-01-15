@@ -8,7 +8,11 @@ They are 0x7c5f87b6c87001ea and 0xA3A95346E6A39610
 
 The can be obtained by 
 
-1. Cloning this repository
+1a. Cloning this repository with git.
+
+or
+
+1b. Download a zip or tar file from the Releases / Latest on the RHS
 
 or
 
